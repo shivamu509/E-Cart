@@ -93,7 +93,6 @@ const Cart = (props) => {
           <h4 className="" style={{float:"left"}}>Total Amount: ₹{total}</h4></div>
       
           <div style={{display: "flex",justifyContent: "flex-end",width: "50%"}}>
-            {/* <button className="btn btn-warning mx-5 " data-bs-toggle="modal" data-bs-target="#exampleModal" onClick={()=>{setShowModal(true)}}>CheckOut</button> */}
             <Link to="/billing"><button className="btn btn-warning mx-5">CheckOut</button></Link>
           <button onClick={() => setCart([])} className="btn btn-danger">Clear Cart</button>
           </div>
