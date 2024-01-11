@@ -15,7 +15,6 @@ This is a frontend-only React project (Ecart) that provides an online shopping e
 ## Technologies Used
 
 - **React.js:** Frontend framework for building user interfaces.
-- **Redux:** State management for React applications.
 - **React Router:** Navigation within the React application.
 
 ## Installation
