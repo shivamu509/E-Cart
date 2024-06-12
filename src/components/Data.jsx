@@ -3,7 +3,7 @@ export const items = [
     id: 1,
     category: "mobiles",
     title: "Apple iPhone 14",
-    imgSrc: "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/31gmva12KHL._SY445_SX342_QL70_FMwebp_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/iphone14.jpg?updatedAt=1718166388383",
     amazonLink: "https://amzn.eu/d/bMF8463",
     description: [
       "15.40 cm (6.1-inch) Super Retina XDR display",
@@ -23,7 +23,7 @@ export const items = [
     category: "laptops",
     title: "ASUS [SmartChoice] Vivobook 16X",
     imgSrc:
-      "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71O7BvBJc8L._SX679_.jpg",
+      "https://ik.imagekit.io/8euik0bwt/Ecart/asusVivobook16x.webp?updatedAt=1718166388196",
     amazonLink: "https://amzn.eu/d/fHF0HFx",
     description: [
       "Processor: AMD Ryzen 5 5600H Mobile Processor (6-core/12-thread, 19MB cache, up to 4.2 GHz max boost)",
@@ -44,7 +44,7 @@ export const items = [
     category: "tablets",
     title: "Samsung Galaxy Tab S9 FE",
     imgSrc:
-      "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61M4gkurLUL._SX679_.jpg",
+      "https://ik.imagekit.io/8euik0bwt/Ecart/samsungS9.jpg?updatedAt=1718166388393",
     amazonLink: "https://amzn.eu/d/jdOMWNL",
     description: [
       "Outstanding vividness with 27.69 cm (10.9”) display, 90 Hz Refresh Rate, 2304 x 1440 (WQXGA, 249 PPI)",
@@ -59,7 +59,7 @@ export const items = [
     id: 4,
     category: "mobiles",
     title: "Apple iPhone 11",
-    imgSrc: "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/71QE00iB9IL._SX679_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/iphone11.jpg?updatedAt=1718166388378",
     amazonLink: "https://amzn.eu/d/bcaUviu",
     description: [
       "6.1-inch (15.5 cm diagonal) Liquid Retina HD LCD display",
@@ -76,7 +76,7 @@ export const items = [
     id: 5,
     category: "tablets",
     title: "Lenovo Tab P12 Pro AMOLED",
-    imgSrc: "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/lonovoTab.jpg?updatedAt=1718166388410",
     amazonLink: "https://amzn.to/3RabsdH",
     description: [
       "12.6 inch (2560 X 1600) AMOLED display| 600 nits brightness | Dolby Vision| HRD10+| TUV Certified Full care display|",
@@ -93,7 +93,7 @@ export const items = [
     id: 6,
     category: "mobiles",
     title: "Apple iPhone 13",
-    imgSrc: "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/iphone13.jpg?updatedAt=1718166388425",
     amazonLink: "https://amzn.to/3r6XJtv",
     description: [
       "15 cm (6.1-inch) Super Retina XDR display",
@@ -109,7 +109,7 @@ export const items = [
     category: "laptops",
     title: "Lenovo IdeaPad Slim 5 ",
     imgSrc:
-      "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61OtrBpfvIL._SX679_.jpg",
+      "https://ik.imagekit.io/8euik0bwt/Ecart/lenovoIdeapadSlim5.jpg?updatedAt=1718166388394",
     amazonLink: "https://amzn.to/44JsK4r",
     description: [
       "HD Audio",
@@ -123,7 +123,7 @@ export const items = [
     id: 8,
     category: "tablets",
     title: "Samsung Galaxy Tab A9+",
-    imgSrc: "https://m.media-amazon.com/images/W/MEDIAX_792452-T1/images/I/61afkty1foL._SX679_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/galaxyTabA9plus.jpg?updatedAt=1718166388399",
     amazonLink: "https://amzn.to/3Pdsh4F",
     description: [
       "26.69cm (10.5 inch) Vibrant Display 1920x1200 (WUXGA) TFT,” Aspect ratio 16:10. Symmetric Narrow Bezel",
@@ -138,7 +138,7 @@ export const items = [
     id: 9,
     category: "laptops",
     title: "Apple MacBook Air Laptop",
-    imgSrc: "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    imgSrc: "https://ik.imagekit.io/8euik0bwt/Ecart/mackbookAir.jpg?updatedAt=1718166388168",
     amazonLink: "https://amzn.to/3r9rvhm",
     description: [
       "All-Day Battery Life – Go longer than ever with up to 18 hours of battery life.",
